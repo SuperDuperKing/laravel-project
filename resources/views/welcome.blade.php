@@ -67,13 +67,13 @@
         </style>
     </head>
     <body>
-        <div class="flex-center position-ref full-height">
-        <div class="top-menu">
+    <div class="top-menu">
                       <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwjbhqfijKXpAhXOhOAKHX-IBx8QkNQCCAM&url=https%3A%2F%2Fabout.google%2F%3Ffg%3D1%26utm_source%3Dgoogle-US%26utm_medium%3Dreferral%26utm_campaign%3Dhp-header&usg=AOvVaw13L0SpN0L7ycx9R0_i4R2S">About</a>
                       <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwjbhqfijKXpAhXOhOAKHX-IBx8QpMwCCAQ&url=https%3A%2F%2Fstore.google.com%2FUS%3Futm_source%3Dhp_header%26utm_medium%3Dgoogle_ooo%26utm_campaign%3DGS100042%26hl%3Den-US&usg=AOvVaw0wvkRBURf91YdMQCXOelDf">Store</a>
-                  </div>
+                 </div>
+        <div class="flex-center position-ref full-height">
             <div class="content">
-                    <a href="#">
+             <a href="#">
                         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAoklEQVR42mNgmGnMQAZ2AOKZQPwAimdCxRBqyDT0DBD/R8NnUAwnw+CZWAyF4ZmUGPwAj8EPBp3BzkB8mdSgwBfTMkC8EsmAW8RGHq6YPgu14DOUD6IrgNiF2OSGL6ZheDUQyxEdbEREyCcgdiU5kkmKaTIMxhcUlylxMa7Iu0VpGONKbqDYL6ckVRDCZKdjmua84VkI0bQ8plkNQrM6jygMAPbbJ6MGdtX+AAAAAElFTkSuQmCC" alt="">
                     </a>
                   <img src="https://www.google.com/logos/doodles/2020/stay-and-play-at-home-with-popular-past-google-doodles-pac-man-2010-6753651837108775.2-law.gif" alt="">
