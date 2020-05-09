@@ -7,38 +7,6 @@
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
-html, body {
-    background-color: #fff;
-    color: #636b6f;
-    font-family: 'Nunito', sans-serif;
-    font-weight: 200;
-    height: 100vh;
-    margin: 0;
-}
-
-.full-height {
-    height: 100vh;
-}
-
-.flex-center {
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
-
-.position-ref {
-    position: relative;
-}
-
-.top-right {
-    position: absolute;
-    right: 10px;
-    top: 18px;
-}
-
-.content {
-    text-align: center;
-}
 
 .title {
     font-size: 84px;
@@ -47,14 +15,20 @@ html, body {
 .button {
  background-color: #eceff4;
   border: none;
-  color: black;
+  color: blue;
   padding: 10px 25px;
   text-align: center;
   display: inline-block;
   font-size: 16px;
 }
 
-.top-menu {
-    display: flex;
+// .top-menu {
+//     display: flex;
+//     align-items: center;
 
+//}
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
